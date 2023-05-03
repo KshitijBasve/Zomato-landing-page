@@ -1,3 +1,5 @@
 #This is My Zomato Landing Page by Kshitij Basve
 
-#gitDone with the First Commit to the github repository
+#Done with the First Commit to the github repository
+
+I am the Master now. The Great Hakaishin Kshitij.
